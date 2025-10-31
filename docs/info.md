@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+A basic SR flip flop. Input 0 is R and Input 1 is S.
 
 ## How to test
 
-Explain how to use your project
+Pull input 1 high to set and input 0 high to reset.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+N/A
